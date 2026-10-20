@@ -20,8 +20,8 @@ html {
 }
 
 body { 
-    background: var(--bg-color);
-    color: var(white);
+    background: black;
+    color: white;
 }
 
 .header {
